@@ -1,0 +1,10 @@
+{
+    "prod": {
+        "app_function": "app.app",
+        "aws_region": "eu-west-1",
+        "profile_name": "mena-uae-ops",
+        "project_name": "argocd-proxy-multicluster",
+        "runtime": "python3.9",
+        "s3_bucket": "dbz-argocd-proxy"
+    }
+}
